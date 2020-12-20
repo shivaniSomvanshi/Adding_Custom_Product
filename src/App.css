@@ -1,0 +1,12 @@
+.home{
+  margin-top: 3vh;
+  padding-bottom: 60px;
+}
+
+.App{
+  text-align: center,
+}
+
+.modal-backdrop.show {
+  opacity: 0.65;
+}

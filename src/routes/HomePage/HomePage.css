@@ -1,0 +1,13 @@
+/* .dummyproducts
+{
+    display: grid;
+    grid-template-rows: 150px 150px 150px 150px;
+    grid-template-columns: 350px 350px 350px 350px;
+    padding: 0px 65px;
+} */
+.dummyproducts{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 60px;
+    flex-wrap: wrap;
+}
